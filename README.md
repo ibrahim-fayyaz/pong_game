@@ -65,6 +65,4 @@ python main.py
 
 Feel free to fork the project and submit pull requests for any improvements you'd like to add!
 
-## License
 
-This project is open source and available under the MIT License.
